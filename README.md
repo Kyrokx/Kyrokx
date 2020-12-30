@@ -1,16 +1,29 @@
-### Hi there 👋
+# **_Kyrokx_** 👋🏿
 
-<!--
-**Kyrokx/Kyrokx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Salut, Je suis un jeune developpeur qui debute dans le vaste monde du developpement
 
-Here are some ideas to get you started:
+### ➔ J'🧡 Le 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Python, html, css, javascript
+
+### ➔ J'apprends 💻
+
+
+Java, c++, php
+
+
+
+🏆 Je suis developpeur de bot discord et  de site Web
+
+Vous pouvez me contactez par:
+
+[Discord](https://discord.gg/rPS55gBvpz)
+
+
+[Twitter](https://twitter.com/Kyrokx_Gaming)
+
+
+[Mail](mailto:kyrokxdev@gmail.com)
+
+![Alt](https://cdn.discordapp.com/attachments/782722583681564703/793773913666617344/gif.gif)
