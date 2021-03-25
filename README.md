@@ -46,7 +46,7 @@ Discord : Kyrokx()#7573
 
 [Mail](mailto:kyrokxdev@gmail.com)
 
-[![Discord Banner 4](824361195444109323)](https://discord.gg/rPS55gBvpz)
+[![Discord Banner 4](824361195444109323)](https://discord.gg/astgEmW2Jd)
 
 
 ![Alt](https://cdn.discordapp.com/attachments/782722583681564703/793773913666617344/gif.gif)
