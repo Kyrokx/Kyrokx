@@ -1,9 +1,8 @@
 # **_Kyrokx()_** 👋🏿
 
-Salut, Je suis un jeune developpeur qui debute dans le vaste monde du developpement. 🏆 Je suis developpeur de bot discord et  de site Web
+Hi, I am a young developer just starting out in the big world of computer development. 🏆 I am a discord bot and website developer, I also love python and use it in several development projects
 
-
-### ➔ J'🧡 Le :
+### ➔ I like 🧡 :
 
 <p>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
@@ -14,9 +13,7 @@ Salut, Je suis un jeune developpeur qui debute dans le vaste monde du developpem
 
 </p>
 
-
-
-### ➔ J'apprends 💻
+### ➔ I'll learn 💻
 
 <p>
   <img alt="c++" src="https://img.shields.io/badge/C%2B%2B-C%2B%2B-blue" />
@@ -24,29 +21,34 @@ Salut, Je suis un jeune developpeur qui debute dans le vaste monde du developpem
   <img alt="java" src="https://img.shields.io/badge/Java-Java-orange" />
 </p>
 
+## ⚙️ Programming tools:
 
-## ⚙️ Outils de programmation:
 <p>
   <img alt="github" width="50px" src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.svg"/>
-    <img alt="git" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/97px-Git_icon.svg.png"/ >
+  <img alt="git" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/97px-Git_icon.svg.png"/ >
+  <img alt="git" width="50px" src="https://camo.githubusercontent.com/b9e813a45f50c5142924d8589fd51da855abab4962d92fa2f89ac808eb979aba/68747470733a2f2f63646e2e66726565626965737570706c792e636f6d2f6c6f676f732f7468756d62732f32782f77656273746f726d2d69636f6e2d6c6f676f2e706e67"/ >
+
 </p>
 
+<p align="left"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/Kyrokx/count.svg" />
+</p>
 
+<img align="left" alt="My Top languages used" src="https://github-readme-stats.vercel.app/api/top-langs?username=kyrokx&show_icons=true&theme=tokyonight&layout=compact" />
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Kyrokx&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-
 Vous pouvez me contactez par:
 
-Discord : Kyrokx()#7573
+Discord : Kyrokx( " ゴールド開発者 " )#7573
 
-
-[Twitter](https://twitter.com/Kyrokx_Gaming)
-
+[Twitter](https://twitter.com/Kyrokx_Dev)
 
 [Mail](mailto:kyrokxdev@gmail.com)
 
-[![Discord Banner 4](824361195444109323)](https://discord.gg/astgEmW2Jd)
+<iframe src="https://canary.discord.com/widget?id=824361195444109323&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+
 
 
 ![Alt](https://cdn.discordapp.com/attachments/782722583681564703/793773913666617344/gif.gif)
