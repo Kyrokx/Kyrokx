@@ -47,8 +47,7 @@ Discord : Kyrokx( " ゴールド開発者 " )#7573
 
 [Mail](mailto:kyrokxdev@gmail.com)
 
-<iframe src="https://canary.discord.com/widget?id=824361195444109323&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
-
+[Server Discord](https://discord.gg/m6abyJGgyP)
 
 
 ![Alt](https://cdn.discordapp.com/attachments/782722583681564703/793773913666617344/gif.gif)
