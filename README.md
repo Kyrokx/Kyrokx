@@ -2,7 +2,7 @@
 
  I am a young developer
  
- [![discord](https://discord.com/api/guilds/824361195444109323/widget.png)](https://discord.gg/tYsp96xjZG)
+ [![discord](https://discord.com/api/guilds/824361195444109323/widget.png)](https://discord.gg/H3Aj3x2caw)
 
 
 
