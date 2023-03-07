@@ -4,7 +4,7 @@
 
 ### 💻 | I mainly develop with :
 - 🐍 | Python
-- 📱 | Flutter (By Google)
+- 📱 | Dart/Flutter (By Google)
 
 
 ### 🔗 | Link
