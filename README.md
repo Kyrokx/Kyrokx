@@ -9,6 +9,7 @@
 
 ### 🔗 | Link
 -  🍎 | Discord : [Personnal Server Discord](https://discord.gg/H3Aj3x2caw)
+-  📑 | Site : [Kyrokx](https://kyrokx.netlify.app/)
 
 ![langStats](https://github-readme-stats.vercel.app/api/top-langs/?username=Kyrokx&theme=radical&border_radius=30px)
 ![rankStats](https://github-readme-stats.vercel.app/api?username=Kyrokx&count_private=true&show_icons=true&theme=onedark&border_radius=30px)
