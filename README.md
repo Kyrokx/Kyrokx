@@ -13,7 +13,7 @@
 
 ![langStats](https://github-readme-stats.vercel.app/api/top-langs/?username=Kyrokx&theme=radical&border_radius=30px)
 ![rankStats](https://github-readme-stats.vercel.app/api?username=Kyrokx&count_private=true&show_icons=true&theme=onedark&border_radius=30px)
-[![Discord Presence](https://api.lanyard.rest/v1/users/717668572888825876)](https://discord.com/users/717668572888825876)
+[![Discord Presence](https://lanyard.cnrad.dev/api/717668572888825876)](https://discord.com/users/717668572888825876)
 <br/>
 <br/>
 [![github-views](https://komarev.com/ghpvc/?username=Kyrokx&color=brightgreen)](https://github.com/Kyrokx)
