@@ -5,7 +5,7 @@
 ### 💻 | I mainly develop with :
 - 🐍 | Python
 - 📱 | Dart/Flutter (By Google)
-- 
+- [Flutter](https://flutter.dev/)
 ### 🔗 | Link
 -  🍎 | Discord : [Personnal Server Discord](https://discord.gg/H3Aj3x2caw)
 -  📑 | Site : [Kyrokx](https://kyrokx.netlify.app/)
