@@ -1,5 +1,14 @@
-# 💫 About Me:
-# 👋 | Hello i'm Kyrokx<br><br>👨‍💻 | I'm a young developer who likes to code stuff to make life easier!</br><br>👑 | I'm also a chess player in my spare time<br><br>### 💻 | I mainly develop with :<br>- 🐍 | Python<br>- 📱 | Dart/[Flutter](https://flutter.dev/) (By Google)<br>### 🔗 | Links :<br>-  🍎 | Discord : [Personnal Server Discord](https://discord.gg/H3Aj3x2caw)<br>-  🐦 | X (Twitter) : [Kyrokxx](https://twitter.com/Kyrokxx)
+# 👋 | Hello i'm Kyrokx<br>
+👨‍💻 | I'm a young developer who likes to code stuff to make life easier!</br>
+👑 | I'm also a chess player in my spare time<br><br>
+
+### 💻 | I mainly develop with :<br>
+- 🐍 | Python<br>
+- 📱 | Dart/[Flutter](https://flutter.dev/) (By Google)<br>
+
+### 🔗 | Links :<br>
+- 🍎 | Discord : [Personnal Server Discord](https://discord.gg/H3Aj3x2caw)<br>
+- 🐦 | X (Twitter) : [Kyrokxx](https://twitter.com/Kyrokxx)
 
 
 ## 🌐 Socials:
