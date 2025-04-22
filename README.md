@@ -1,12 +1,16 @@
 # 👋 | Hello i'm Kyrokx<br>
-👨‍💻 | I'm a young developer who likes to code stuff to make life easier!</br>
-👑 | I'm also a chess player in my spare time<br><br>
+👨‍💻 | I'm a young developer who likes to code stuff to make life easier!<br>
+👑 | I'm also a chess player in my spare time
 
-### 💻 | I mainly develop with :<br>
-- 🐍 | Python<br>
-- 📱 | Dart/[Flutter](https://flutter.dev/) (By Google)<br>
+[![github-views](https://komarev.com/ghpvc/?username=Kyrokx&color=brightgreen)](https://github.com/Kyrokx)
 
-### 🔗 | Links :<br>
+---
+
+#### 💻 | I mainly develop with :<br>
+- 🐍 | Python
+- 📱 | Dart/[Flutter](https://flutter.dev/) (By Google)
+
+#### 🔗 | Links :<br>
 - 🍎 | Discord : [Personnal Server Discord](https://discord.gg/H3Aj3x2caw)<br>
 - 🐦 | X (Twitter) : [Kyrokxx](https://twitter.com/Kyrokxx)
 
